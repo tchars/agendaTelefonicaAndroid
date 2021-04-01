@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda Maneira</string>
+    <string name="contatinhos">Contatinhos</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="acessar">acessar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="todo">TODO</string>
+    <string-array name="spinner">
+        <item>Casa</item>
+        <item>Telefone</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
